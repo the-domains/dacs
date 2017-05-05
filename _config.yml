@@ -1,3 +1,18 @@
+layout_spectrum: 0.09634951572311987
+typography_spectrum: 0.6469069833227313
+color:
+  lightness: 0.4717336860926139
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+  saturation: 0.07116811441442017
+  brandStrength: 0.9195337291368016
+  rhythmicContrast: 0.9456908053535008
+coverPrefs:
+  filter: false
 name: Moreno Consulting
 analytics: {}
 purpose:
@@ -24,21 +39,8 @@ navigation:
   - id: fb57aa08-6453-4ded-aa30-8e82fdaa743d
     name: Blog
     type: content
-layout_spectrum: 0.1046517844150525
-color:
-  lightness: 0.8511647152668326
-  brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
-  saturation: 0.09216003216452676
-  brandStrength: 0.6069201137884381
-  rhythmicContrast: 0.3545228000721055
 content_rating:
   adult: false
-typography_spectrum: 0.8494010420581602
 opengraph: {}
 title: Los Angeles Consulting
 url: 'https://thegrid.ai/moreno-consulting/'
