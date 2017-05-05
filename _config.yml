@@ -1,0 +1,44 @@
+name: Los Angeles Consulting
+analytics: {}
+purpose:
+  - type: contact
+    url: 'mailto:info@daas.com'
+    label: Contact us
+github: true
+description: 'AI, Machine learning, Data Science, and Cyber Security'
+author: {}
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+content: []
+navigation:
+  - id: fb57aa08-6453-4ded-aa30-8e82fdaa743d
+    name: Blog
+    type: content
+layout_spectrum: 0.1046517844150525
+color:
+  lightness: 0.8511647152668326
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+  saturation: 0.09216003216452676
+  brandStrength: 0.6069201137884381
+  rhythmicContrast: 0.3545228000721055
+content_rating:
+  adult: false
+typography_spectrum: 0.8494010420581602
+opengraph: {}
+title: Los Angeles Consulting
+url: 'https://thegrid.ai/moreno-consulting/'
