@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Los Angeles Consulting]]></title>
-        <description><![CDATA[Los Angeles Consulting]]></description>
+        <title><![CDATA[Moreno Consulting]]></title>
+        <description><![CDATA[Moreno Consulting]]></description>
         <link>https://thegrid.ai/moreno-consulting/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 05 May 2017 21:31:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Jun 2017 11:39:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/moreno-consulting/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 05 May 2017 21:31:28 GMT</pubDate>
+        <pubDate>Sat, 17 Jun 2017 11:39:01 GMT</pubDate>
         <item>
             <title><![CDATA[Why the Surge in Violence Against Robots Matters]]></title>
             <description><![CDATA[<h1>Why the Surge in Violence Against Robots Matters</h1>,<p>https://www.extremetech.com/extreme/248806-surge-violence-robots-matters</p>]]></description>
@@ -27,6 +27,13 @@
             <link>https://thegrid.ai/moreno-consulting/what-we-do/index.html</link>
             <guid isPermaLink="false">1feadd51-5ea4-4126-bdb8-890784d579f8</guid>
             <pubDate>Sat, 25 Feb 2017 14:17:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Universal Basic Income and tax breaks won't save us from the jobless future]]></title>
+            <description><![CDATA[<article><h1>Why Universal Basic Income and tax breaks won&apos;t save us from the jobless future</h1><p>In Amazon&apos;s warehouses, there is a beehive of activity, yet the robots are doing a lot of the work. In less than five years, they will load</p><img src="https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAvqAAAAJGRiZWEyYzU1LTc3Y2UtNGQxYi04ZjIxLTU0ZmYyYzA5ZDM0ZQ.jpg"></article>]]></description>
+            <link>https://www.linkedin.com/pulse/why-universal-basic-income-tax-breaks-wont-save-us-from-vivek-wadhwa?trk=v-feed&amp;lipi=urn%3Ali%3Apage%3Ap_flagship3_feed%3Bc0U2ctfKcTtHhCjOMtp2tQ%3D%3D</link>
+            <guid isPermaLink="false">a6229073-66a5-4a1a-9650-1ad9899c4354</guid>
+            <pubDate>Sat, 17 Jun 2017 11:39:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Of Lawyers and Robots]]></title>
