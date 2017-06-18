@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Moreno Consulting]]></title>
-        <description><![CDATA[Moreno Consulting]]></description>
+        <title><![CDATA[ The Power of Data Analytics]]></title>
+        <description><![CDATA[ The Power of Data Analytics]]></description>
         <link>https://thegrid.ai/moreno-consulting/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 17 Jun 2017 11:39:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Jun 2017 00:59:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/moreno-consulting/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 17 Jun 2017 11:39:01 GMT</pubDate>
+        <pubDate>Sun, 18 Jun 2017 00:59:05 GMT</pubDate>
         <item>
             <title><![CDATA[Why the Surge in Violence Against Robots Matters]]></title>
             <description><![CDATA[<h1>Why the Surge in Violence Against Robots Matters</h1>,<p>https://www.extremetech.com/extreme/248806-surge-violence-robots-matters</p>]]></description>
@@ -41,13 +41,6 @@
             <link>https://mobile.nytimes.com/2017/04/03/opinion/of-lawyers-and-robots.html?rref=collection%2Ftimestopic%2FArtificial%20Intelligence&amp;action=click&amp;contentCollection=timestopics&amp;region=stream&amp;module=stream_unit&amp;version=latest&amp;contentPlacement=3&amp;pgtype=collection&amp;_r=0&amp;referer=https://www.nytimes.com/topic/subject/artificial-intelligence</link>
             <guid isPermaLink="false">7af7c26b-55b7-4719-93b9-0fb7b1822826</guid>
             <pubDate>Fri, 07 Apr 2017 02:11:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How We Identified the D.N.C. Hack's 'Patient Zero']]></title>
-            <description><![CDATA[<article><h1>How We Identified the D.N.C. Hack&apos;s &apos;Patient Zero&apos;</h1><p>We also reached out to WikiLeaks - and its editor in chief, Julian Assange - and tried, though without much success, to engage individuals in the Russian government, as well as Guccifer 2.0 and DCLeaks, the Russian-linked websites that dumped many of the Democrats&apos; emails and other documents.</p><img src="https://static01.nyt.com/images/2016/12/21/insider/21-Insider-DNCHack-Image/21-Insider-DNCHack-Image-facebookJumbo.jpg"></article>]]></description>
-            <link>https://thegrid.ai/moreno-consulting/how-we-identified-the-dnc-hacks-patient-zero/index.html</link>
-            <guid isPermaLink="false">fb57aa08-6453-4ded-aa30-8e82fdaa743d</guid>
-            <pubDate>Tue, 28 Feb 2017 08:21:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
