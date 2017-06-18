@@ -13,12 +13,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 content: []
 navigation:
   - id: fb57aa08-6453-4ded-aa30-8e82fdaa743d
@@ -40,7 +40,7 @@ content_rating:
   adult: false
 typography_spectrum: 0.6469069833227313
 opengraph: {}
-title: Moreno Consulting
+title: ' The Power of Data Analytics'
 coverPrefs:
   filter: false
 url: 'https://thegrid.ai/moreno-consulting/'
